@@ -1,0 +1,11 @@
+{
+  "name": "abcdefg",
+  "description": "Node.js library and API for abcdefg",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@actions/core": "^1.2.6",
+    "@actions/github": "^4.0.0"
+  },
+  "devDependencies": {}
+}
